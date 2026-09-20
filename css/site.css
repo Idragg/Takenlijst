@@ -1,3 +1,7 @@
-main {
+h1, section {
     text-align: center;
+}
+
+#taskList{
+    font-size: 1.25rem;
 }
