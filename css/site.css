@@ -5,3 +5,9 @@ h1, section {
 #taskList{
     font-size: 1.25rem;
 }
+
+#confirmModal {
+    background-color: white;
+    border: white;
+    font-family: Arial, serif;
+}
