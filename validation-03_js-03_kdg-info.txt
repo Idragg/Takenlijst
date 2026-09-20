@@ -1,4 +1,0 @@
-=== JS_Variables ===
-*** Global declared variables ***
-scripts\addNotes.js
-	taskToDelete        		3:4(depth:0)

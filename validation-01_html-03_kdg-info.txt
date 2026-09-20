@@ -1,4 +1,0 @@
-=== HTML_Semantics_content ===
-*** Semi-forbidden_tags ***
-html\index.html
-	[Semi-forbidden tag] <div>: 14

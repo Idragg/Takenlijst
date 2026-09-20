@@ -1,1 +1,0 @@
-call "C:\autoval\auto-validation.bat" %*
