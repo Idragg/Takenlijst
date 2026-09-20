@@ -8,19 +8,20 @@
 </head>
 <body>
 <main>
-    <h1>To do lijst</h1>
+    <h1 class="hidden-title">To do lijst</h1>
     <section>
+        <h2>To do lijst</h2>
         <input type="text" id="taskInput" placeholder="Nieuwe taak...">
         <button id="addButton">Toevoegen</button>
         <p>Dubbel click om te verwijderen.</p>
     </section>
     <ul id="taskList"></ul>
+
+    <dialog id="confirmModal">
+        <p>Weet je zeker dat je deze taak wilt verwijderen?</p>
+        <button id="cancelBtn">Annuleren</button>
+        <button id="confirmBtn">Verwijderen</button>
+    </dialog>
 </main>
 </body>
 </html>
-
-<dialog id="confirmModal">
-    <p>Weet je zeker dat je deze taak wilt verwijderen?</p>
-    <button id="cancelBtn">Annuleren</button>
-    <button id="confirmBtn">Verwijderen</button>
-</dialog>

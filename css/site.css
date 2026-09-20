@@ -1,12 +1,21 @@
 h1, section {
     text-align: center;
 }
-main p{
+
+main p {
     font-size: 10px;
     color: gray;
 }
 
-#taskList{
+.hidden-title {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+#taskList {
     font-size: 1.25rem;
 }
 
